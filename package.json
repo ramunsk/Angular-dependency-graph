@@ -1,0 +1,16 @@
+{
+    "name": "angular-dependenry-graph",
+    "version": "0.1.0",
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ramunsk/angular-dependency-graph.git"
+    },
+    "contributors": [
+        "Ramunas <ramunsk@users.noreply.github.com>",
+    ],
+    "private": true,
+    "dependencies": {},
+    "devDependencies": {
+    }
+}
