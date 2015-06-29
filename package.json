@@ -7,7 +7,7 @@
         "url": "https://github.com/ramunsk/angular-dependency-graph.git"
     },
     "contributors": [
-        "Ramunas <ramunsk@users.noreply.github.com>",
+        "Ramunas <ramunsk@users.noreply.github.com>"
     ],
     "private": true,
     "dependencies": {},
